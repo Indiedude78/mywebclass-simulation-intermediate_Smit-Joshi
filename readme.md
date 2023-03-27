@@ -66,3 +66,4 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 
 #### [Team Document](teams.md)
 #### [Installation Guide](installation_guide.md)
+#### [Team Management](team_management.md)
